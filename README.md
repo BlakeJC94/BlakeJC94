@@ -2,6 +2,8 @@
 
 I'm a mathematician and machine learning engineer, focused on building robust, data-driven systems for medical applications. My work spans applied ML, statistical modeling, time series segmentation, and software infrastructure for data-heavy applications. I enjoy designing tools that are not only effective but also maintainable and intuitive to use.
 
+🔗 Blog: https://www.probableodyssey.blog/ — I write about machine learning, software engineering, and the occasional mathematical curiosity.
+
 🔧 Tools & Interests
 
 - 🧠 Machine Learning · 🔍 NLP · 📊 Time Series · 🖼️ Image Analysis
